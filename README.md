@@ -169,6 +169,10 @@ python LLM/eval.py
 - Improve LLM summaries using RLHF techniques.
 
 ---
+## 👥 Contributors
+
+- [Sai Pranay](https://github.com/SaiPranay04)
+- [Sai Ganesh Reddy](https://github.com/sabadusaiganeshreddy)
 
 ## 📬 Contact
 
